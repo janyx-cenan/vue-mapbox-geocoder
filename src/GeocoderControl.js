@@ -77,6 +77,10 @@ export default {
     input: {
       type: String,
       default: null
+    },
+    mapboxgl:{
+      type: Object,
+      default: null
     }
   },
 
